@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Alexandre, or @Alex-Andrer
-- 👀 I’m interested in ...
+- 🖖 Live long and prosper, I’m Alexandre Dantas, or @Alex-Andrer on Github, 18 years old
+- 👀 I’m interested in Power BI, Python, JavaScript
 - 🌱 I’m currently learning Programing logic.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me? 
 
 <!---
 Alex-Andrer/Alex-Andrer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
