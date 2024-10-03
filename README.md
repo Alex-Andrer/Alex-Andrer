@@ -1,7 +1,11 @@
-- 🖖Vida longa e próspera, eu sou Alexandre Dantas, ou @Alex-Ander no Github<br/>
-    (EN)Live long and prosper, I’m Alexandre Dantas, or @Alex-Andrer on Github
-- 👀Eu estou interessado em Power BI, Python, JavaScript, análise de dados<br/>
-    (EN)I’m interested in Power BI, Python, JavaScript, data alalysis 
-- 🌱Atualmente estou aprendendo lógica de programação<br/>
-    (EN)I’m currently learning Programing logic
-- 📫 How to reach me? 
+# Salve
+## Aqui é o perfil do Alexandre Dantas
+- Sou de São Paulo/SP
+- Trabalho no Mc Donald's, sou um daqueles adolescentes tristes...
+- Também estou estudando, tenho conhecimento básico em HTML, CSS e JavaScript, mas atualmente estou estudando no framework .NET
+- Busco aprender algo novo, todo dia não consigo, mas esse é o objetivo a se conseguir
+
+## Contatos
+<a href="https://www.linkedin.com/in/alexandredantas139/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "alexandredantas139@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/alex_andre_dantas/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
